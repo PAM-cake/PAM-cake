@@ -10,7 +10,7 @@
 ## 🛠️ Skills & Technologies
 
 ### **Languages:**
-- HTML, CSS, JavaScript
+- JavaScript, Python(basics of ai and ml)
 
 ### **Frameworks & Libraries:**
 - React
